@@ -28,10 +28,10 @@ City_Table = '''CREATE TABLE if not Exists cities(
   FOREIGN KEY (country_id) REFERENCES countries (country_id)
 )'''
 
-connection = sqlite3.connect("hawqalDB.sqlite")
+connection = sqlite3.connect("Database/hawqalDB.sqlite")
 
 # countries data to database
-with open("countries.csv", 'r', encoding="utf8") as file:
+with open("Data/countries.csv", 'r', encoding="utf8") as file:
     countries_file_reader = csv.reader(file, delimiter=',')
     next(countries_file_reader, None)
 
@@ -45,7 +45,7 @@ with open("countries.csv", 'r', encoding="utf8") as file:
     connection.commit()
 
 # states data to database
-with open("states.csv", 'r', encoding="utf8") as file:
+with open("Data/states.csv", 'r', encoding="utf8") as file:
     states_file_reader = csv.reader(file, delimiter=',')
     next(states_file_reader, None)
 
@@ -59,7 +59,7 @@ with open("states.csv", 'r', encoding="utf8") as file:
     connection.commit()
 
 # cities data to database
-with open("cities.csv", 'r', encoding="utf8") as file:
+with open("Data/cities.csv", 'r', encoding="utf8") as file:
     cities_file_reader = csv.reader(file, delimiter=',')
     next(cities_file_reader, None)
 
