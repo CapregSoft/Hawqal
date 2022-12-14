@@ -1,4 +1,5 @@
-import csvtosql.readcsv as data
+from hawqal.csvtosql.readcsv import convert
 
 if __name__ == "__main__":
-    data.read()
+
+    convert.csv_to_sql()
