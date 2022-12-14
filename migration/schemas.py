@@ -11,8 +11,8 @@ class schema:
     State_Table = '''CREATE TABLE if not Exists states(
         state_id int PRIMARY KEY NOT NULL,
         name TEXT NOT NULL,
-        country_name TEXT NOT NULL,
         country_id int NOT NULL,
+        country_name TEXT NOT NULL,
         FOREIGN KEY (country_id) REFERENCES countries (country_id)
       )'''
 
@@ -21,8 +21,8 @@ class schema:
     city_id int PRIMARY KEY NOT NULL,
     name TEXT NOT NULL,
     state_id int NOT NULL,
-    country_name TEXT NOT NULL,
     country_id int NOT NULL,
+    country_name TEXT NOT NULL,
     FOREIGN KEY (state_id) REFERENCES states (state_id),
     FOREIGN KEY (country_id) REFERENCES countries (country_id)
   )'''
