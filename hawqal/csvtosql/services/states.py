@@ -1,24 +1,22 @@
 import csv
-from hawqal.dal.dao import connection
-from hawqal.migration.schemas import schema
-
-connection.connect
-db_cursor = connection.connect.cursor()
 
 
-class state:
+class State:
+    def __init__(self, databaseConn, schema, CsvfilePath):
+        self.databaseConn = databaseConn
+        self.schema = schema
+        self.CsvfilePath = CsvfilePath
 
-    def stateDB(filepath):
+    def stateDB(self):
         # states data to database
-        with open(filepath, 'r', encoding="utf8") as file:
+        with open(self.CsvfilePath, 'r', encoding="utf8") as file:
             states_file_reader = csv.reader(file, delimiter=',')
             next(states_file_reader, None)
 
-            db_cursor
-
-            db_cursor.execute(schema.State_Table)
+            cursor = self.databaseConn.cursor()
+            cursor.execute(self.schema)
             for row in states_file_reader:
                 InsertQuery = f'INSERT INTO states VALUES ("{row[0]}","{row[1]}","{row[2]}","{row[3]}")'
-                db_cursor.execute(InsertQuery)
+                cursor.execute(InsertQuery)
 
-            connection.connect.commit()
+            self.databaseConn.commit()

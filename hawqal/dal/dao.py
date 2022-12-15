@@ -2,7 +2,11 @@ import sqlite3
 import os
 
 
-class connection:
-    if os.path.exists("database\hawqalDB.sqlite"):
-        os.remove("database\hawqalDB.sqlite")
-    connect = sqlite3.connect("database/hawqalDB.sqlite")
+class Database:
+    def __init__(self, path):
+        self.databasePath = path
+
+    def makeConnection(self):
+        if os.path.exists(f"{self.databasePath}"):
+            os.remove(f"{self.databasePath}")
+        return sqlite3.connect(f"{self.databasePath}")
