@@ -2,9 +2,9 @@ name: Python application
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "python-script-csv-to-sql" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "python-script-csv-to-sql" ]
 
 permissions:
   contents: read
