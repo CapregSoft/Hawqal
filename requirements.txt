@@ -1,0 +1,5 @@
+#Libraries used in this project are python standard libraries.
+#Python version 3.10.9
+#os
+#csv
+#sqlite3
