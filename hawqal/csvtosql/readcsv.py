@@ -19,20 +19,17 @@ class Convert:
 
     def csv_to_sql(self):
         print('Converting your data from CSV to SQlite Database...')
-        try:
-            countryObj = Country(
-                self.database, self.CountriesSchema, 'hawqal\data\countries.csv')
-            countryObj.countryDB()
+        countryObj = Country(
+            self.database, self.CountriesSchema, 'hawqal\data\countries.csv')
+        countryObj.countryDB()
 
-            stateObj = State(self.database, self.StateSchema,
-                             'hawqal\data\states.csv')
-            stateObj.stateDB()
+        stateObj = State(self.database, self.StateSchema,
+                         'hawqal\data\states.csv')
+        stateObj.stateDB()
 
-            cityObj = City(self.database, self.CitySchema,
-                           'hawqal\data\cities.csv')
-            cityObj.cityDB()
+        cityObj = City(self.database, self.CitySchema,
+                       'hawqal\data\cities.csv')
+        cityObj.cityDB()
 
-            self.database.commit()
-            print("Data converted Sucessfully")
-        except:
-            print("error while converting data")
+        self.database.commit()
+        print("Data converted Sucessfully")

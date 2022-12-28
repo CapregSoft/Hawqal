@@ -17,6 +17,6 @@ class City:
 
             cursor.execute(self.schema)
             for row in cities_file_reader:
-                InsertQuery = f'INSERT INTO cities VALUES ("{row[0]}","{row[1]}","{row[2]}","{row[3]}","{row[4]}")'
+                InsertQuery = f'INSERT INTO cities VALUES ("{row[0]}","{row[1]}","{row[2]}","{row[3]}","{row[4]}","{row[5]}","{row[6]}")'
                 cursor.execute(InsertQuery)
             self.databaseConn.commit()

@@ -1,251 +1,251 @@
-country_id,country_name
-1,Afghanistan
-2,Aland Islands
-3,Albania
-4,Algeria
-5,American Samoa
-6,Andorra
-7,Angola
-8,Anguilla
-9,Antarctica
-10,Antigua And Barbuda
-11,Argentina
-12,Armenia
-13,Aruba
-14,Australia
-15,Austria
-16,Azerbaijan
-18,Bahrain
-19,Bangladesh
-20,Barbados
-21,Belarus
-22,Belgium
-23,Belize
-24,Benin
-25,Bermuda
-26,Bhutan
-27,Bolivia
-155,"Bonaire, Sint Eustatius and Saba"
-28,Bosnia and Herzegovina
-29,Botswana
-30,Bouvet Island
-31,Brazil
-32,British Indian Ocean Territory
-33,Brunei
-34,Bulgaria
-35,Burkina Faso
-36,Burundi
-37,Cambodia
-38,Cameroon
-39,Canada
-40,Cape Verde
-41,Cayman Islands
-42,Central African Republic
-43,Chad
-44,Chile
-45,China
-46,Christmas Island
-47,Cocos (Keeling) Islands
-48,Colombia
-49,Comoros
-50,Congo
-52,Cook Islands
-53,Costa Rica
-54,Cote D'Ivoire (Ivory Coast)
-55,Croatia
-56,Cuba
-249,Curaçao
-57,Cyprus
-58,Czech Republic
-51,Democratic Republic of the Congo
-59,Denmark
-60,Djibouti
-61,Dominica
-62,Dominican Republic
-63,East Timor
-64,Ecuador
-65,Egypt
-66,El Salvador
-67,Equatorial Guinea
-68,Eritrea
-69,Estonia
-70,Ethiopia
-71,Falkland Islands
-72,Faroe Islands
-73,Fiji Islands
-74,Finland
-75,France
-76,French Guiana
-77,French Polynesia
-78,French Southern Territories
-79,Gabon
-80,Gambia The
-81,Georgia
-82,Germany
-83,Ghana
-84,Gibraltar
-85,Greece
-86,Greenland
-87,Grenada
-88,Guadeloupe
-89,Guam
-90,Guatemala
-91,Guernsey and Alderney
-92,Guinea
-93,Guinea-Bissau
-94,Guyana
-95,Haiti
-96,Heard Island and McDonald Islands
-97,Honduras
-98,Hong Kong S.A.R.
-99,Hungary
-100,Iceland
-101,India
-102,Indonesia
-103,Iran
-104,Iraq
-105,Ireland
-106,Israel
-107,Italy
-108,Jamaica
-109,Japan
-110,Jersey
-111,Jordan
-112,Kazakhstan
-113,Kenya
-114,Kiribati
-248,Kosovo
-117,Kuwait
-118,Kyrgyzstan
-119,Laos
-120,Latvia
-121,Lebanon
-122,Lesotho
-123,Liberia
-124,Libya
-125,Liechtenstein
-126,Lithuania
-127,Luxembourg
-128,Macau S.A.R.
-129,Macedonia
-130,Madagascar
-131,Malawi
-132,Malaysia
-133,Maldives
-134,Mali
-135,Malta
-136,Man (Isle of)
-137,Marshall Islands
-138,Martinique
-139,Mauritania
-140,Mauritius
-141,Mayotte
-142,Mexico
-143,Micronesia
-144,Moldova
-145,Monaco
-146,Mongolia
-147,Montenegro
-148,Montserrat
-149,Morocco
-150,Mozambique
-151,Myanmar
-152,Namibia
-153,Nauru
-154,Nepal
-156,Netherlands
-157,New Caledonia
-158,New Zealand
-159,Nicaragua
-160,Niger
-161,Nigeria
-162,Niue
-163,Norfolk Island
-115,North Korea
-164,Northern Mariana Islands
-165,Norway
-166,Oman
-167,Pakistan
-168,Palau
-169,Palestinian Territory Occupied
-170,Panama
-171,Papua new Guinea
-172,Paraguay
-173,Peru
-174,Philippines
-175,Pitcairn Island
-176,Poland
-177,Portugal
-178,Puerto Rico
-179,Qatar
-180,Reunion
-181,Romania
-182,Russia
-183,Rwanda
-184,Saint Helena
-185,Saint Kitts And Nevis
-186,Saint Lucia
-187,Saint Pierre and Miquelon
-188,Saint Vincent And The Grenadines
-189,Saint-Barthelemy
-190,Saint-Martin (French part)
-191,Samoa
-192,San Marino
-193,Sao Tome and Principe
-194,Saudi Arabia
-195,Senegal
-196,Serbia
-197,Seychelles
-198,Sierra Leone
-199,Singapore
-250,Sint Maarten (Dutch part)
-200,Slovakia
-201,Slovenia
-202,Solomon Islands
-203,Somalia
-204,South Africa
-205,South Georgia
-116,South Korea
-206,South Sudan
-207,Spain
-208,Sri Lanka
-209,Sudan
-210,Suriname
-211,Svalbard And Jan Mayen Islands
-212,Swaziland
-213,Sweden
-214,Switzerland
-215,Syria
-216,Taiwan
-217,Tajikistan
-218,Tanzania
-219,Thailand
-17,The Bahamas
-220,Togo
-221,Tokelau
-222,Tonga
-223,Trinidad And Tobago
-224,Tunisia
-225,Turkey
-226,Turkmenistan
-227,Turks And Caicos Islands
-228,Tuvalu
-229,Uganda
-230,Ukraine
-231,United Arab Emirates
-232,United Kingdom
-233,United States
-234,United States Minor Outlying Islands
-235,Uruguay
-236,Uzbekistan
-237,Vanuatu
-238,Vatican City State (Holy See)
-239,Venezuela
-240,Vietnam
-241,Virgin Islands (British)
-242,Virgin Islands (US)
-243,Wallis And Futuna Islands
-244,Western Sahara
-245,Yemen
-246,Zambia
-247,Zimbabwe
+name,iso_code,phone_code,capital,currency,currency_name,currency_symbol,country_domain,region,subregion,timezone,zonecity,UTC,latitude,longitude
+Afghanistan,AFG,93,Kabul,AFN,Afghan afghani,؋,.af,Asia,Southern Asia,Asia , Kabul  , 04:30  ,33,65
+Aland Islands,ALA,340,Mariehamn,EUR,Euro,€,.ax,Europe,Northern Europe,Europe , Mariehamn  , 02:00  ,60.116667,19.9
+Albania,ALB,355,Tirana,ALL,Albanian lek,Lek,.al,Europe,Southern Europe,Europe , Tirane  , 01:00  ,41,20
+Algeria,DZA,213,Algiers,DZD,Algerian dinar,دج,.dz,Africa,Northern Africa,Africa , Algiers  , 01:00  ,28,3
+American Samoa,ASM,683,Pago Pago,USD,US Dollar,$,.as,Oceania,Polynesia,Pacific , Pago_Pago  ,   11:00,-14.33333333,-170
+Andorra,AND,376,Andorra la Vella,EUR,Euro,€,.ad,Europe,Southern Europe,Europe , Andorra  , 01:00  ,42.5,1.5
+Angola,AGO,244,Luanda,AOA,Angolan kwanza,Kz,.ao,Africa,Middle Africa,Africa , Luanda  , 01:00  ,-12.5,18.5
+Anguilla,AIA,263,The Valley,XCD,East Caribbean dollar,$,.ai,Americas,Caribbean,America , Anguilla  ,   -4:00,18.25,-63.16666666
+Antarctica,ATA,672,,AAD,Antarctican dollar,$,.aq,Polar,,Antarctica , Casey  , 11:00  ,-74.65,4.48
+Antigua And Barbuda,ATG,267,St. John's,XCD,Eastern Caribbean dollar,$,.ag,Americas,Caribbean,America , Antigua  ,   -4:00,17.05,-61.8
+Argentina,ARG,54,Buenos Aires,ARS,Argentine peso,$,.ar,Americas,South America,America ,Buenos Aires,   -3:00,-34,-64
+Armenia,ARM,374,Yerevan,AMD,Armenian dram,֏,.am,Asia,Western Asia,Asia , Yerevan  , 04:00  ,40,45
+Aruba,ABW,297,Oranjestad,AWG,Aruban florin,ƒ,.aw,Americas,Caribbean,America , Aruba  ,   -4:00,12.5,-69.96666666
+Australia,AUS,61,Canberra,AUD,Australian dollar,$,.au,Oceania,Australia and New Zealand,Antarctica , Macquarie  , 11:00  ,-27,133
+Austria,AUT,43,Vienna,EUR,Euro,€,.at,Europe,Western Europe,Europe , Vienna  , 01:00  ,47.33333333,13.33333333
+Azerbaijan,AZE,994,Baku,AZN,Azerbaijani manat,m,.az,Asia,Western Asia,Asia , Baku  , 04:00  ,40.5,47.5
+Bahrain,BHR,973,Manama,BHD,Bahraini dinar,.د.ب,.bh,Asia,Western Asia,Asia , Bahrain  , 03:00  ,26,50.55
+Bangladesh,BGD,880,Dhaka,BDT,Bangladeshi taka,৳,.bd,Asia,Southern Asia,Asia , Dhaka  , 06:00  ,24,90
+Barbados,BRB,245,Bridgetown,BBD,Barbadian dollar,Bds$,.bb,Americas,Caribbean,America , Barbados  , -4:00  ,13.16666666,-59.53333333
+Belarus,BLR,375,Minsk,BYN,Belarusian ruble,Br,.by,Europe,Eastern Europe,Europe , Minsk  , 03:00  ,53,28
+Belgium,BEL,32,Brussels,EUR,Euro,€,.be,Europe,Western Europe,Europe , Brussels  , 01:00  ,50.83333333,4
+Belize,BLZ,501,Belmopan,BZD,Belize dollar,$,.bz,Americas,Central America,America , Belize  ,   -6:00,17.25,-88.75
+Benin,BEN,229,Porto-Novo,XOF,West African CFA franc,CFA,.bj,Africa,Western Africa,Africa , Porto,   01:00,9.5,2.25
+Bermuda,BMU,440,Hamilton,BMD,Bermudian dollar,$,.bm,Americas,Northern America,Atlantic , Bermuda  , -4:00  ,32.33333333,-64.75
+Bhutan,BTN,975,Thimphu,BTN,Bhutanese ngultrum,Nu.,.bt,Asia,Southern Asia,Asia , Thimphu  , 06:00  ,27.5,90.5
+Bolivia,BOL,591,Sucre,BOB,Bolivian boliviano,Bs.,.bo,Americas,South America,America , La_Paz  , -4:00  ,-17,-65
+"Bonaire, Sint Eustatius and Saba",BES,599,Kralendijk,USD,United States dollar,$,.an,Americas,Caribbean,America , Anguilla  , -4:00  ,12.15,-68.266667
+Bosnia and Herzegovina,BIH,387,Sarajevo,BAM,Bosnia and Herzegovina convertible mark,KM,.ba,Europe,Southern Europe,Europe , Sarajevo  , 01:00  ,44,18
+Botswana,BWA,267,Gaborone,BWP,Botswana pula,P,.bw,Africa,Southern Africa,Africa , Gaborone  , 02:00  ,-22,24
+Bouvet Island,BVT,55,,NOK,Norwegian Krone,kr,.bv,,,Europe , Oslo  , 01:00  ,-54.43333333,3.4
+Brazil,BRA,55,Brasilia,BRL,Brazilian real,R$,.br,Americas,South America,America , Araguaina  , -3:00  ,-10,-55
+British Indian Ocean Territory,IOT,246,Diego Garcia,USD,United States dollar,$,.io,Africa,Eastern Africa,Indian , Chagos  , 06:00  ,-6,71.5
+Brunei,BRN,673,Bandar Seri Begawan,BND,Brunei dollar,B$,.bn,Asia,South-Eastern Asia,Asia , Brunei  , 08:00  ,4.5,114.6666667
+Bulgaria,BGR,359,Sofia,BGN,Bulgarian lev,Лв.,.bg,Europe,Eastern Europe,Europe , Sofia  , 02:00  ,43,25
+Burkina Faso,BFA,226,Ouagadougou,XOF,West African CFA franc,CFA,.bf,Africa,Western Africa,Africa , Ouagadougou  ,0,13,-2
+Burundi,BDI,257,Bujumbura,BIF,Burundian franc,FBu,.bi,Africa,Eastern Africa,Africa , Bujumbura  , 02:00  ,-3.5,30
+Cambodia,KHM,855,Phnom Penh,KHR,Cambodian riel,KHR,.kh,Asia,South-Eastern Asia,Asia , Phnom_Penh  , 07:00  ,13,105
+Cameroon,CMR,237,Yaounde,XAF,Central African CFA franc,FCFA,.cm,Africa,Middle Africa,Africa , Douala  , 01:00  ,6,12
+Canada,CAN,1,Ottawa,CAD,Canadian dollar,$,.ca,Americas,Northern America,America , Atikokan  , -5:00  ,60,-95
+Cape Verde,CPV,238,Praia,CVE,Cape Verdean escudo,$,.cv,Africa,Western Africa,Atlantic , Cape_Verde  , -1:00  ,16,-24
+Cayman Islands,CYM,344,George Town,KYD,Cayman Islands dollar,$,.ky,Americas,Caribbean,America , Cayman  , -5:00  ,19.5,-80.5
+Central African Republic,CAF,236,Bangui,XAF,Central African CFA franc,FCFA,.cf,Africa,Middle Africa,Africa , Bangui  , 01:00  ,7,21
+Chad,TCD,235,N'Djamena,XAF,Central African CFA franc,FCFA,.td,Africa,Middle Africa,Africa , Ndjamena  , 01:00  ,15,19
+Chile,CHL,56,Santiago,CLP,Chilean peso,$,.cl,Americas,South America,America , Punta_Arenas  , -3:00  ,-30,-71
+China,CHN,86,Beijing,CNY,Chinese yuan,¥,.cn,Asia,Eastern Asia,Asia , Shanghai  , 08:00  ,35,105
+Christmas Island,CXR,61,Flying Fish Cove,AUD,Australian dollar,$,.cx,Oceania,Australia and New Zealand,Indian , Christmas  , 07:00  ,-10.5,105.6666667
+Cocos (Keeling) Islands,CCK,61,West Island,AUD,Australian dollar,$,.cc,Oceania,Australia and New Zealand,Indian , Cocos  , 06:30  ,-12.5,96.83333333
+Colombia,COL,57,Bogotá,COP,Colombian peso,$,.co,Americas,South America,America , Bogota  ,-5:00,4,-72
+Comoros,COM,269,Moroni,KMF,Comorian franc,CF,.km,Africa,Eastern Africa,Indian , Comoro  , 03:00  ,-12.16666666,44.25
+Congo,COG,242,Brazzaville,XAF,Central African CFA franc,FC,.cg,Africa,Middle Africa,Africa , Brazzaville  , 01:00  ,-1,15
+Cook Islands,COK,682,Avarua,NZD,Cook Islands dollar,$,.ck,Oceania,Polynesia,Pacific , Rarotonga  ,-10:00,-21.23333333,-159.7666667
+Costa Rica,CRI,506,San Jose,CRC,Costa Rican colón,₡,.cr,Americas,Central America,America , Costa_Rica  ,-6:00,10,-84
+Cote D'Ivoire (Ivory Coast),CIV,225,Yamoussoukro,XOF,West African CFA franc,CFA,.ci,Africa,Western Africa,Africa , Abidjan  ,0:00,8,-5
+Croatia,HRV,385,Zagreb,HRK,Croatian kuna,kn,.hr,Europe,Southern Europe,Europe , Zagreb  , 01:00  ,45.16666666,15.5
+Cuba,CUB,53,Havana,CUP,Cuban peso,$,.cu,Americas,Caribbean,America , Havana  ,-5:00,21.5,-80
+Curaçao,CUW,599,Willemstad,ANG,Netherlands Antillean guilder,ƒ,.cw,Americas,Caribbean,America , Curacao  ,-4:00,12.116667,-68.933333
+Cyprus,CYP,357,Nicosia,EUR,Euro,€,.cy,Europe,Southern Europe,Asia , Famagusta  , 02:00  ,35,33
+Czech Republic,CZE,420,Prague,CZK,Czech koruna,Kč,.cz,Europe,Eastern Europe,Europe , Prague  , 01:00  ,49.75,15.5
+Democratic Republic of the Congo,COD,243,Kinshasa,CDF,Congolese Franc,FC,.cd,Africa,Middle Africa,Africa , Kinshasa  , 01:00  ,0,25
+Denmark,DNK,45,Copenhagen,DKK,Danish krone,Kr.,.dk,Europe,Northern Europe,Europe , Copenhagen  , 01:00  ,56,10
+Djibouti,DJI,253,Djibouti,DJF,Djiboutian franc,Fdj,.dj,Africa,Eastern Africa,Africa , Djibouti  , 03:00  ,11.5,43
+Dominica,DMA,766,Roseau,XCD,Eastern Caribbean dollar,$,.dm,Americas,Caribbean,America , Dominica  ,-4:00,15.41666666,-61.33333333
+Dominican Republic,DOM,1809 and 1829,Santo Domingo,DOP,Dominican peso,$,.do,Americas,Caribbean,America , Santo_Domingo  ,-4:00,19,-70.66666666
+East Timor,TLS,670,Dili,USD,United States dollar,$,.tl,Asia,South-Eastern Asia,Asia , Dili  , 09:00  ,-8.83333333,125.9166667
+Ecuador,ECU,593,Quito,USD,United States dollar,$,.ec,Americas,South America,America , Guayaquil  ,   -5:00,-2,-77.5
+Egypt,EGY,20,Cairo,EGP,Egyptian pound,ج.م,.eg,Africa,Northern Africa,Africa , Cairo  , 02:00  ,27,30
+El Salvador,SLV,503,San Salvador,USD,United States dollar,$,.sv,Americas,Central America,America , El_Salvador  ,   -6:00,13.83333333,-88.91666666
+Equatorial Guinea,GNQ,240,Malabo,XAF,Central African CFA franc,FCFA,.gq,Africa,Middle Africa,Africa , Malabo  , 01:00  ,2,10
+Eritrea,ERI,291,Asmara,ERN,Eritrean nakfa,Nfk,.er,Africa,Eastern Africa,Africa , Asmara  , 03:00  ,15,39
+Estonia,EST,372,Tallinn,EUR,Euro,€,.ee,Europe,Northern Europe,Europe , Tallinn  , 02:00  ,59,26
+Ethiopia,ETH,251,Addis Ababa,ETB,Ethiopian birr,Nkf,.et,Africa,Eastern Africa,Africa , Addis_Ababa  , 03:00  ,8,38
+Falkland Islands,FLK,500,Stanley,FKP,Falkland Islands pound,£,.fk,Americas,South America,Atlantic , Stanley  ,   -3:00,-51.75,-59
+Faroe Islands,FRO,298,Torshavn,DKK,Danish krone,Kr.,.fo,Europe,Northern Europe,Atlantic , Faroe  ,0:00,62,-7
+Fiji Islands,FJI,679,Suva,FJD,Fijian dollar,FJ$,.fj,Oceania,Melanesia,Pacific , Fiji  , 12:00  ,-18,175
+Finland,FIN,358,Helsinki,EUR,Euro,€,.fi,Europe,Northern Europe,Europe , Helsinki  , 02:00  ,64,26
+France,FRA,33,Paris,EUR,Euro,€,.fr,Europe,Western Europe,Europe , Paris  , 01:00  ,46,2
+French Guiana,GUF,594,Cayenne,EUR,Euro,€,.gf,Americas,South America,America , Cayenne  ,   -3:00,4,-53
+French Polynesia,PYF,689,Papeete,XPF,CFP franc,₣,.pf,Oceania,Polynesia,Pacific , Gambier  ,   -9:00,-15,-140
+French Southern Territories,ATF,262,Port-aux-Francais,EUR,Euro,€,.tf,Africa,Southern Africa,Indian , Kerguelen  , 05:00  ,-49.25,69.167
+Gabon,GAB,241,Libreville,XAF,Central African CFA franc,FCFA,.ga,Africa,Middle Africa,Africa , Libreville  , 01:00  ,-1,11.75
+Gambia The,GMB,220,Banjul,GMD,Gambian dalasi,D,.gm,Africa,Western Africa,Africa , Banjul  ,0:00,13.46666666,-16.56666666
+Georgia,GEO,995,Tbilisi,GEL,Georgian lari,ლ,.ge,Asia,Western Asia,Asia , Tbilisi  , 04:00  ,42,43.5
+Germany,DEU,49,Berlin,EUR,Euro,€,.de,Europe,Western Europe,Europe , Berlin  , 01:00  ,51,9
+Ghana,GHA,233,Accra,GHS,Ghanaian cedi,GH₵,.gh,Africa,Western Africa,Africa , Accra  ,2:00,8,-2
+Gibraltar,GIB,350,Gibraltar,GIP,Gibraltar pound,£,.gi,Europe,Southern Europe,Europe , Gibraltar  , 01:00  ,36.13333333,-5.35
+Greece,GRC,30,Athens,EUR,Euro,€,.gr,Europe,Southern Europe,Europe , Athens  , 02:00  ,39,22
+Greenland,GRL,299,Nuuk,DKK,Danish krone,Kr.,.gl,Americas,Northern America,America , Danmarkshavn  ,0:00,72,-40
+Grenada,GRD,472,St. George's,XCD,Eastern Caribbean dollar,$,.gd,Americas,Caribbean,America , Grenada  , -4:00,12.11666666,-61.66666666
+Guadeloupe,GLP,590,Basse-Terre,EUR,Euro,€,.gp,Americas,Caribbean,America , Guadeloupe  , -4:00,16.25,-61.583333
+Guam,GUM,670,Hagatna,USD,US Dollar,$,.gu,Oceania,Micronesia,Pacific , Guam  , 10:00  ,13.46666666,144.7833333
+Guatemala,GTM,502,Guatemala City,GTQ,Guatemalan quetzal,Q,.gt,Americas,Central America,America , Guatemala  ,   -6:00,15.5,-90.25
+Guernsey and Alderney,GGY,1437,St Peter Port,GBP,British pound,£,.gg,Europe,Northern Europe,Europe , Guernsey  ,0:00,49.46666666,-2.58333333
+Guinea,GIN,224,Conakry,GNF,Guinean franc,FG,.gn,Africa,Western Africa,Africa , Conakry  ,0:00,11,-10
+Guinea-Bissau,GNB,245,Bissau,XOF,West African CFA franc,CFA,.gw,Africa,Western Africa,Africa , Bissau  ,0:00,12,-15
+Guyana,GUY,592,Georgetown,GYD,Guyanese dollar,$,.gy,Americas,South America,America , Guyana  , -4:00,5,-59
+Haiti,HTI,509,Port-au-Prince,HTG,Haitian gourde,G,.ht,Americas,Caribbean,America , Port, -4:00,19,-72.41666666
+Heard Island and McDonald Islands,HMD,672,,AUD,Australian dollar,$,.hm,,,Indian , Kerguelen  , 05:00  ,-53.1,72.51666666
+Honduras,HND,504,Tegucigalpa,HNL,Honduran lempira,L,.hn,Americas,Central America,America , Tegucigalpa  ,   -6:00,15,-86.5
+Hong Kong S.A.R.,HKG,852,Hong Kong,HKD,Hong Kong dollar,$,.hk,Asia,Eastern Asia,Asia , Hong_Kong  , 08:00  ,22.25,114.1666667
+Hungary,HUN,36,Budapest,HUF,Hungarian forint,Ft,.hu,Europe,Eastern Europe,Europe , Budapest  , 01:00  ,47,20
+Iceland,ISL,354,Reykjavik,ISK,Icelandic króna,kr,.is,Europe,Northern Europe,Atlantic , Reykjavik  ,0:00,65,-18
+India,IND,91,New Delhi,INR,Indian rupee,₹,.in,Asia,Southern Asia,Asia , Kolkata  , 05:30  ,20,77
+Indonesia,IDN,62,Jakarta,IDR,Indonesian rupiah,Rp,.id,Asia,South-Eastern Asia,Asia , Jakarta  , 07:00  ,-5,120
+Iran,IRN,98,Tehran,IRR,Iranian rial,﷼,.ir,Asia,Southern Asia,Asia , Tehran  , 03:30  ,32,53
+Iraq,IRQ,964,Baghdad,IQD,Iraqi dinar,د.ع,.iq,Asia,Western Asia,Asia , Baghdad  , 03:00  ,33,44
+Ireland,IRL,353,Dublin,EUR,Euro,€,.ie,Europe,Northern Europe,Europe , Dublin  ,0:00,53,-8
+Israel,ISR,972,Jerusalem,ILS,Israeli new shekel,₪,.il,Asia,Western Asia,Asia , Jerusalem  , 02:00  ,31.5,34.75
+Italy,ITA,39,Rome,EUR,Euro,€,.it,Europe,Southern Europe,Europe , Rome  , 01:00  ,42.83333333,12.83333333
+Jamaica,JAM,875,Kingston,JMD,Jamaican dollar,J$,.jm,Americas,Caribbean,America , Jamaica  ,   -5:00,18.25,-77.5
+Japan,JPN,81,Tokyo,JPY,Japanese yen,¥,.jp,Asia,Eastern Asia,Asia , Tokyo  , 09:00  ,36,138
+Jersey,JEY,1490,Saint Helier,GBP,British pound,£,.je,Europe,Northern Europe,Europe , Jersey  ,0:00,49.25,-2.16666666
+Jordan,JOR,962,Amman,JOD,Jordanian dinar,ا.د,.jo,Asia,Western Asia,Asia , Amman  , 02:00  ,31,36
+Kazakhstan,KAZ,7,Astana,KZT,Kazakhstani tenge,лв,.kz,Asia,Central Asia,Asia , Almaty  , 06:00  ,48,68
+Kenya,KEN,254,Nairobi,KES,Kenyan shilling,KSh,.ke,Africa,Eastern Africa,Africa , Nairobi  , 03:00  ,1,38
+Kiribati,KIR,686,Tarawa,AUD,Australian dollar,$,.ki,Oceania,Micronesia,Pacific , Enderbury  , 13:00  ,1.41666666,173
+Kosovo,XKX,383,Pristina,EUR,Euro,€,.xk,Europe,Eastern Europe,Europe , Belgrade  , 01:00  ,42.5612909,20.3403035
+Kuwait,KWT,965,Kuwait City,KWD,Kuwaiti dinar,ك.د,.kw,Asia,Western Asia,Asia , Kuwait  , 03:00  ,29.5,45.75
+Kyrgyzstan,KGZ,996,Bishkek,KGS,Kyrgyzstani som,лв,.kg,Asia,Central Asia,Asia , Bishkek  , 06:00  ,41,75
+Laos,LAO,856,Vientiane,LAK,Lao kip,₭,.la,Asia,South-Eastern Asia,Asia , Vientiane  , 07:00  ,18,105
+Latvia,LVA,371,Riga,EUR,Euro,€,.lv,Europe,Northern Europe,Europe , Riga  , 02:00  ,57,25
+Lebanon,LBN,961,Beirut,LBP,Lebanese pound,£,.lb,Asia,Western Asia,Asia , Beirut  , 02:00  ,33.83333333,35.83333333
+Lesotho,LSO,266,Maseru,LSL,Lesotho loti,L,.ls,Africa,Southern Africa,Africa , Maseru  , 02:00  ,-29.5,28.5
+Liberia,LBR,231,Monrovia,LRD,Liberian dollar,$,.lr,Africa,Western Africa,Africa , Monrovia  ,0:00,6.5,-9.5
+Libya,LBY,218,Tripolis,LYD,Libyan dinar,د.ل,.ly,Africa,Northern Africa,Africa , Tripoli  , 02:00  ,25,17
+Liechtenstein,LIE,423,Vaduz,CHF,Swiss franc,CHf,.li,Europe,Western Europe,Europe , Vaduz  , 01:00  ,47.26666666,9.53333333
+Lithuania,LTU,370,Vilnius,EUR,Euro,€,.lt,Europe,Northern Europe,Europe , Vilnius  , 02:00  ,56,24
+Luxembourg,LUX,352,Luxembourg,EUR,Euro,€,.lu,Europe,Western Europe,Europe , Luxembourg  , 01:00  ,49.75,6.16666666
+Macau S.A.R.,MAC,853,Macao,MOP,Macanese pataca,$,.mo,Asia,Eastern Asia,Asia , Macau  , 08:00  ,22.16666666,113.55
+Macedonia,MKD,389,Skopje,MKD,Denar,ден,.mk,Europe,Southern Europe,Europe , Skopje  , 01:00  ,41.83333333,22
+Madagascar,MDG,261,Antananarivo,MGA,Malagasy ariary,Ar,.mg,Africa,Eastern Africa,Indian , Antananarivo  , 03:00  ,-20,47
+Malawi,MWI,265,Lilongwe,MWK,Malawian kwacha,MK,.mw,Africa,Eastern Africa,Africa , Blantyre  , 02:00  ,-13.5,34
+Malaysia,MYS,60,Kuala Lumpur,MYR,Malaysian ringgit,RM,.my,Asia,South-Eastern Asia,Asia , Kuala_Lumpur  , 08:00  ,2.5,112.5
+Maldives,MDV,960,Male,MVR,Maldivian rufiyaa,Rf,.mv,Asia,Southern Asia,Indian , Maldives  , 05:00  ,3.25,73
+Mali,MLI,223,Bamako,XOF,West African CFA franc,CFA,.ml,Africa,Western Africa,Africa , Bamako  ,0:00,17,-4
+Malta,MLT,356,Valletta,EUR,Euro,€,.mt,Europe,Southern Europe,Europe , Malta  , 01:00  ,35.83333333,14.58333333
+Man (Isle of),IMN,1580,"Douglas, Isle of Man",GBP,British pound,£,.im,Europe,Northern Europe,Europe , Isle_of_Man  ,0:00,54.25,-4.5
+Marshall Islands,MHL,692,Majuro,USD,United States dollar,$,.mh,Oceania,Micronesia,Pacific , Kwajalein  , 12:00  ,9,168
+Martinique,MTQ,596,Fort-de-France,EUR,Euro,€,.mq,Americas,Caribbean,America , Martinique  , -4:00  ,14.666667,-61
+Mauritania,MRT,222,Nouakchott,MRO,Mauritanian ouguiya,MRU,.mr,Africa,Western Africa,Africa , Nouakchott  ,0:00,20,-12
+Mauritius,MUS,230,Port Louis,MUR,Mauritian rupee,₨,.mu,Africa,Eastern Africa,Indian , Mauritius  , 04:00  ,-20.28333333,57.55
+Mayotte,MYT,262,Mamoudzou,EUR,Euro,€,.yt,Africa,Eastern Africa,Indian , Mayotte  , 03:00  ,-12.83333333,45.16666666
+Mexico,MEX,52,Ciudad de México,MXN,Mexican peso,$,.mx,Americas,Central America,America , Bahia_Banderas  ,   -6:00,23,-102
+Micronesia,FSM,691,Palikir,USD,United States dollar,$,.fm,Oceania,Micronesia,Pacific , Chuuk  , 10:00  ,6.91666666,158.25
+Moldova,MDA,373,Chisinau,MDL,Moldovan leu,L,.md,Europe,Eastern Europe,Europe , Chisinau  , 02:00  ,47,29
+Monaco,MCO,377,Monaco,EUR,Euro,€,.mc,Europe,Western Europe,Europe , Monaco  , 01:00  ,43.73333333,7.4
+Mongolia,MNG,976,Ulan Bator,MNT,Mongolian tögrög,₮,.mn,Asia,Eastern Asia,Asia , Choibalsan  , 08:00  ,46,105
+Montenegro,MNE,382,Podgorica,EUR,Euro,€,.me,Europe,Southern Europe,Europe , Podgorica  , 01:00  ,42.5,19.3
+Montserrat,MSR,663,Plymouth,XCD,Eastern Caribbean dollar,$,.ms,Americas,Caribbean,America , Montserrat  , -4:00  ,16.75,-62.2
+Morocco,MAR,212,Rabat,MAD,Moroccan dirham,DH,.ma,Africa,Northern Africa,Africa , Casablanca  , 01:00  ,32,-5
+Mozambique,MOZ,258,Maputo,MZN,Mozambican metical,MT,.mz,Africa,Eastern Africa,Africa , Maputo  , 02:00  ,-18.25,35
+Myanmar,MMR,95,Nay Pyi Taw,MMK,Burmese kyat,K,.mm,Asia,South-Eastern Asia,Asia , Yangon  , 06:30  ,22,98
+Namibia,NAM,264,Windhoek,NAD,Namibian dollar,$,.na,Africa,Southern Africa,Africa , Windhoek  , 02:00  ,-22,17
+Nauru,NRU,674,Yaren,AUD,Australian dollar,$,.nr,Oceania,Micronesia,Pacific , Nauru  , 12:00  ,-0.53333333,166.9166667
+Nepal,NPL,977,Kathmandu,NPR,Nepalese rupee,₨,.np,Asia,Southern Asia,Asia , Kathmandu  , 05:45  ,28,84
+Netherlands,NLD,31,Amsterdam,EUR,Euro,€,.nl,Europe,Western Europe,Europe , Amsterdam  , 01:00  ,52.5,5.75
+New Caledonia,NCL,687,Noumea,XPF,CFP franc,₣,.nc,Oceania,Melanesia,Pacific , Noumea  , 11:00  ,-21.5,165.5
+New Zealand,NZL,64,Wellington,NZD,New Zealand dollar,$,.nz,Oceania,Australia and New Zealand,Pacific , Auckland  , 13:00  ,-41,174
+Nicaragua,NIC,505,Managua,NIO,Nicaraguan córdoba,C$,.ni,Americas,Central America,America , Managua  , -6:00  ,13,-85
+Niger,NER,227,Niamey,XOF,West African CFA franc,CFA,.ne,Africa,Western Africa,Africa , Niamey  , 01:00  ,16,8
+Nigeria,NGA,234,Abuja,NGN,Nigerian naira,₦,.ng,Africa,Western Africa,Africa , Lagos  , 01:00  ,10,8
+Niue,NIU,683,Alofi,NZD,New Zealand dollar,$,.nu,Oceania,Polynesia,Pacific , Niue  ,   -11:00,-19.03333333,-169.8666667
+Norfolk Island,NFK,672,Kingston,AUD,Australian dollar,$,.nf,Oceania,Australia and New Zealand,Pacific , Norfolk  , 12:00  ,-29.03333333,167.95
+North Korea,PRK,850,Pyongyang,KPW,North Korean Won,₩,.kp,Asia,Eastern Asia,Asia , Pyongyang  , 09:00  ,40,127
+Northern Mariana Islands,MNP,669,Saipan,USD,United States dollar,$,.mp,Oceania,Micronesia,Pacific , Saipan  , 10:00  ,15.2,145.75
+Norway,NOR,47,Oslo,NOK,Norwegian krone,kr,.no,Europe,Northern Europe,Europe , Oslo  , 01:00  ,62,10
+Oman,OMN,968,Muscat,OMR,Omani rial,.ع.ر,.om,Asia,Western Asia,Asia , Muscat  , 04:00  ,21,57
+Pakistan,PAK,92,Islamabad,PKR,Pakistani rupee,₨,.pk,Asia,Southern Asia,Asia , Karachi  , 05:00  ,30,70
+Palau,PLW,680,Melekeok,USD,United States dollar,$,.pw,Oceania,Micronesia,Pacific , Palau  , 09:00  ,7.5,134.5
+Palestinian Territory Occupied,PSE,970,East Jerusalem,ILS,Israeli new shekel,₪,.ps,Asia,Western Asia,Asia , Gaza  , 02:00  ,31.9,35.2
+Panama,PAN,507,Panama City,PAB,Panamanian balboa,B/.,.pa,Americas,Central America,America , Panama  , -5:00,9,-80
+Papua new Guinea,PNG,675,Port Moresby,PGK,Papua New Guinean kina,K,.pg,Oceania,Melanesia,Pacific , Bougainville  , 11:00  ,-6,147
+Paraguay,PRY,595,Asuncion,PYG,Paraguayan guarani,₲,.py,Americas,South America,America , Asuncion  , -3:00  ,-23,-58
+Peru,PER,51,Lima,PEN,Peruvian sol,S/.,.pe,Americas,South America,America , Lima  , -5:00,-10,-76
+Philippines,PHL,63,Manila,PHP,Philippine peso,₱,.ph,Asia,South-Eastern Asia,Asia , Manila  , 08:00  ,13,122
+Pitcairn Island,PCN,870,Adamstown,NZD,New Zealand dollar,$,.pn,Oceania,Polynesia,Pacific , Pitcairn  , -8:00,-25.06666666,-130.1
+Poland,POL,48,Warsaw,PLN,Polish złoty,zł,.pl,Europe,Eastern Europe,Europe , Warsaw  , 01:00  ,52,20
+Portugal,PRT,351,Lisbon,EUR,Euro,€,.pt,Europe,Southern Europe,Atlantic , Azores  , -1:00,39.5,-8
+Puerto Rico,PRI,+1787 and 1939,San Juan,USD,United States dollar,$,.pr,Americas,Caribbean,America , Puerto_Rico  , -4:00  ,18.25,-66.5
+Qatar,QAT,974,Doha,QAR,Qatari riyal,ق.ر,.qa,Asia,Western Asia,Asia , Qatar  , 03:00  ,25.5,51.25
+Reunion,REU,262,Saint-Denis,EUR,Euro,€,.re,Africa,Eastern Africa,Indian , Reunion  , 04:00  ,-21.15,55.5
+Romania,ROU,40,Bucharest,RON,Romanian leu,lei,.ro,Europe,Eastern Europe,Europe , Bucharest  , 02:00  ,46,25
+Russia,RUS,7,Moscow,RUB,Russian ruble,₽,.ru,Europe,Eastern Europe,Asia , Anadyr  , 12:00  ,60,100
+Rwanda,RWA,250,Kigali,RWF,Rwandan franc,FRw,.rw,Africa,Eastern Africa,Africa , Kigali  , 02:00  ,-2,30
+Saint Helena,SHN,290,Jamestown,SHP,Saint Helena pound,£,.sh,Africa,Western Africa,Atlantic , St_Helena  ,0:00,-15.95,-5.7
+Saint Kitts And Nevis,KNA,868,Basseterre,XCD,Eastern Caribbean dollar,$,.kn,Americas,Caribbean,America , St_Kitts  ,-4:00,17.33333333,-62.75
+Saint Lucia,LCA,757,Castries,XCD,Eastern Caribbean dollar,$,.lc,Americas,Caribbean,America , St_Lucia  ,-4:00  ,13.88333333,-60.96666666
+Saint Pierre and Miquelon,SPM,508,Saint-Pierre,EUR,Euro,€,.pm,Americas,Northern America,America , Miquelon  ,-3:00  ,46.83333333,-56.33333333
+Saint Vincent And The Grenadines,VCT,783,Kingstown,XCD,Eastern Caribbean dollar,$,.vc,Americas,Caribbean,America , St_Vincent  ,-4:00,13.25,-61.2
+Saint-Barthelemy,BLM,590,Gustavia,EUR,Euro,€,.bl,Americas,Caribbean,America , St_Barthelemy  ,-4:00  ,18.5,-63.41666666
+Saint-Martin (French part),MAF,590,Marigot,EUR,Euro,€,.mf,Americas,Caribbean,America , Marigot  ,-4:00  ,18.08333333,-63.95
+Samoa,WSM,685,Apia,WST,Samoan tālā,SAT,.ws,Oceania,Polynesia,Pacific , Apia  , 14:00  ,-13.58333333,-172.3333333
+San Marino,SMR,378,San Marino,EUR,Euro,€,.sm,Europe,Southern Europe,Europe , San_Marino  , 01:00  ,43.76666666,12.41666666
+Sao Tome and Principe,STP,239,Sao Tome,STD,Dobra,Db,.st,Africa,Middle Africa,Africa , Sao_Tome  ,0:00,1,7
+Saudi Arabia,SAU,966,Riyadh,SAR,Saudi riyal,﷼,.sa,Asia,Western Asia,Asia , Riyadh  , 03:00  ,25,45
+Senegal,SEN,221,Dakar,XOF,West African CFA franc,CFA,.sn,Africa,Western Africa,Africa , Dakar  ,0:00,14,-14
+Serbia,SRB,381,Belgrade,RSD,Serbian dinar,din,.rs,Europe,Southern Europe,Europe , Belgrade  , 01:00  ,44,21
+Seychelles,SYC,248,Victoria,SCR,Seychellois rupee,SRe,.sc,Africa,Eastern Africa,Indian , Mahe  , 04:00  ,-4.58333333,55.66666666
+Sierra Leone,SLE,232,Freetown,SLL,Sierra Leonean leone,Le,.sl,Africa,Western Africa,Africa , Freetown  ,0:00,8.5,-11.5
+Singapore,SGP,65,Singapur,SGD,Singapore dollar,$,.sg,Asia,South-Eastern Asia,Asia , Singapore  , 08:00  ,1.36666666,103.8
+Sint Maarten (Dutch part),SXM,1721,Philipsburg,ANG,Netherlands Antillean guilder,ƒ,.sx,Americas,Caribbean,America , Anguilla  , -4:00  ,18.033333,-63.05
+Slovakia,SVK,421,Bratislava,EUR,Euro,€,.sk,Europe,Eastern Europe,Europe , Bratislava  , 01:00  ,48.66666666,19.5
+Slovenia,SVN,386,Ljubljana,EUR,Euro,€,.si,Europe,Southern Europe,Europe , Ljubljana  , 01:00  ,46.11666666,14.81666666
+Solomon Islands,SLB,677,Honiara,SBD,Solomon Islands dollar,Si$,.sb,Oceania,Melanesia,Pacific , Guadalcanal  , 11:00  ,-8,159
+Somalia,SOM,252,Mogadishu,SOS,Somali shilling,Sh.so.,.so,Africa,Eastern Africa,Africa , Mogadishu  , 03:00  ,10,49
+South Africa,ZAF,27,Pretoria,ZAR,South African rand,R,.za,Africa,Southern Africa,Africa , Johannesburg  , 02:00  ,-29,24
+South Georgia,SGS,500,Grytviken,GBP,British pound,£,.gs,Americas,South America,Atlantic , South_Georgia  , -2:00  ,-54.5,-37
+South Korea,KOR,82,Seoul,KRW,Won,₩,.kr,Asia,Eastern Asia,Asia , Seoul  , 09:00  ,37,127.5
+South Sudan,SSD,211,Juba,SSP,South Sudanese pound,£,.ss,Africa,Middle Africa,Africa , Juba  , 03:00  ,7,30
+Spain,ESP,34,Madrid,EUR,Euro,€,.es,Europe,Southern Europe,Africa , Ceuta  , 01:00  ,40,-4
+Sri Lanka,LKA,94,Colombo,LKR,Sri Lankan rupee,Rs,.lk,Asia,Southern Asia,Asia , Colombo  , 05:30  ,7,81
+Sudan,SDN,249,Khartoum,SDG,Sudanese pound,.س.ج,.sd,Africa,Northern Africa,Africa , Khartoum  , 02:00  ,15,30
+Suriname,SUR,597,Paramaribo,SRD,Surinamese dollar,$,.sr,Americas,South America,America , Paramaribo  , -3:00  ,4,-56
+Svalbard And Jan Mayen Islands,SJM,47,Longyearbyen,NOK,Norwegian Krone,kr,.sj,Europe,Northern Europe,Arctic , Longyearbyen  , 01:00  ,78,20
+Swaziland,SWZ,268,Mbabane,SZL,Lilangeni,E,.sz,Africa,Southern Africa,Africa , Mbabane  , 02:00  ,-26.5,31.5
+Sweden,SWE,46,Stockholm,SEK,Swedish krona,kr,.se,Europe,Northern Europe,Europe , Stockholm  , 01:00  ,62,15
+Switzerland,CHE,41,Bern,CHF,Swiss franc,CHf,.ch,Europe,Western Europe,Europe , Zurich  , 01:00  ,47,8
+Syria,SYR,963,Damascus,SYP,Syrian pound,LS,.sy,Asia,Western Asia,Asia , Damascus  , 02:00  ,35,38
+Taiwan,TWN,886,Taipei,TWD,New Taiwan dollar,$,.tw,Asia,Eastern Asia,Asia , Taipei  , 08:00  ,23.5,121
+Tajikistan,TJK,992,Dushanbe,TJS,Tajikistani somoni,SM,.tj,Asia,Central Asia,Asia , Dushanbe  , 05:00  ,39,71
+Tanzania,TZA,255,Dodoma,TZS,Tanzanian shilling,TSh,.tz,Africa,Eastern Africa,Africa , Dar_es_Salaam  , 03:00  ,-6,35
+Thailand,THA,66,Bangkok,THB,Thai baht,฿,.th,Asia,South-Eastern Asia,Asia , Bangkok  , 07:00  ,15,100
+The Bahamas,BHS,241,Nassau,BSD,Bahamian dollar,B$,.bs,Americas,Caribbean,America , Nassau  ,-5:00,24.25,-76
+Togo,TGO,228,Lome,XOF,West African CFA franc,CFA,.tg,Africa,Western Africa,Africa , Lome  ,0:00,8,1.16666666
+Tokelau,TKL,690,,NZD,New Zealand dollar,$,.tk,Oceania,Polynesia,Pacific , Fakaofo  , 13:00  ,-9,-172
+Tonga,TON,676,Nuku'alofa,TOP,Tongan paʻanga,$,.to,Oceania,Polynesia,Pacific , Tongatapu  , 13:00  ,-20,-175
+Trinidad And Tobago,TTO,867,Port of Spain,TTD,Trinidad and Tobago dollar,$,.tt,Americas,Caribbean,America , Port_of_Spain  ,-4:00,11,-61
+Tunisia,TUN,216,Tunis,TND,Tunisian dinar,ت.د,.tn,Africa,Northern Africa,Africa , Tunis  , 01:00  ,34,9
+Turkey,TUR,90,Ankara,TRY,Turkish lira,₺,.tr,Asia,Western Asia,Europe , Istanbul  , 03:00  ,39,35
+Turkmenistan,TKM,993,Ashgabat,TMT,Turkmenistan manat,T,.tm,Asia,Central Asia,Asia , Ashgabat  , 05:00  ,40,60
+Turks And Caicos Islands,TCA,648,Cockburn Town,USD,United States dollar,$,.tc,Americas,Caribbean,America , Grand_Turk  ,-5:00,21.75,-71.58333333
+Tuvalu,TUV,688,Funafuti,AUD,Australian dollar,$,.tv,Oceania,Polynesia,Pacific , Funafuti  , 12:00  ,-8,178
+Uganda,UGA,256,Kampala,UGX,Ugandan shilling,USh,.ug,Africa,Eastern Africa,Africa , Kampala  , 03:00  ,1,32
+Ukraine,UKR,380,Kiev,UAH,Ukrainian hryvnia,₴,.ua,Europe,Eastern Europe,Europe , Kiev  , 02:00  ,49,32
+United Arab Emirates,ARE,971,Abu Dhabi,AED,United Arab Emirates dirham,إ.د,.ae,Asia,Western Asia,Asia , Dubai  , 04:00  ,24,54
+United Kingdom,GBR,44,London,GBP,British pound,£,.uk,Europe,Northern Europe,Europe , London  ,0:00,54,-2
+United States,USA,1,Washington,USD,United States dollar,$,.us,Americas,Northern America,America , Adak  ,   -10:00,38,-97
+United States Minor Outlying Islands,UMI,1,,USD,United States dollar,$,.us,Americas,Northern America,Pacific , Midway  ,   -11:00,0,0
+Uruguay,URY,598,Montevideo,UYU,Uruguayan peso,$,.uy,Americas,South America,America , Montevideo  ,   -3:00,-33,-56
+Uzbekistan,UZB,998,Tashkent,UZS,Uzbekistani soʻm,лв,.uz,Asia,Central Asia,Asia , Samarkand  , 05:00  ,41,64
+Vanuatu,VUT,678,Port Vila,VUV,Vanuatu vatu,VT,.vu,Oceania,Melanesia,Pacific , Efate  , 11:00  ,-16,167
+Vatican City State (Holy See),VAT,379,Vatican City,EUR,Euro,€,.va,Europe,Southern Europe,Europe , Vatican  , 01:00  ,41.9,12.45
+Venezuela,VEN,58,Caracas,VEF,Bolívar,Bs,.ve,Americas,South America,America , Caracas  ,   -4:00,8,-66
+Vietnam,VNM,84,Hanoi,VND,Vietnamese đồng,₫,.vn,Asia,South-Eastern Asia,Asia , Ho_Chi_Minh  , 07:00  ,16.16666666,107.8333333
+Virgin Islands (British),VGB,283,Road Town,USD,United States dollar,$,.vg,Americas,Caribbean,America , Tortola  ,   -4:00,18.431383,-64.62305
+Virgin Islands (US),VIR,339,Charlotte Amalie,USD,United States dollar,$,.vi,Americas,Caribbean,America , St_Thomas  ,   -4:00,18.34,-64.93
+Wallis And Futuna Islands,WLF,681,Mata Utu,XPF,CFP franc,₣,.wf,Oceania,Polynesia,Pacific , Wallis  , 12:00  ,-13.3,-176.2
+Western Sahara,ESH,212,El-Aaiun,MAD,Moroccan Dirham,MAD,.eh,Africa,Northern Africa,Africa , El_Aaiun  , 01:00  ,24.5,-13
+Yemen,YEM,967,Sanaa,YER,Yemeni rial,﷼,.ye,Asia,Western Asia,Asia , Aden  , 03:00  ,15,48
+Zambia,ZMB,260,Lusaka,ZMW,Zambian kwacha,ZK,.zm,Africa,Eastern Africa,Africa , Lusaka  , 02:00  ,-15,30
+Zimbabwe,ZWE,263,Harare,ZWL,Zimbabwe Dollar,$,.zw,Africa,Eastern Africa,Africa , Harare  , 02:00  ,-20,30
