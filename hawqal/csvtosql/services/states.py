@@ -16,7 +16,7 @@ class State:
             cursor = self.databaseConn.cursor()
             cursor.execute(self.schema)
             for row in states_file_reader:
-                InsertQuery = f'INSERT INTO states VALUES ("{row[0]}","{row[1]}","{row[2]}","{row[3]}")'
+                InsertQuery = f'INSERT INTO states VALUES ("{row[0]}","{row[1]}","{row[2]}","{row[3]}","{row[4]}")'
                 cursor.execute(InsertQuery)
 
             self.databaseConn.commit()

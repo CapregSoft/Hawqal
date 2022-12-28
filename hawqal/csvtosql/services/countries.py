@@ -18,7 +18,7 @@ class Country:
             cursor.execute(self.schema)
             # connection.cursor.execute(schema.Country_Table)
             for row in countries_file_reader:
-                InsertQuery = f'INSERT INTO countries VALUES ("{row[0]}","{row[1]}")'
+                InsertQuery = f'INSERT INTO countries VALUES ("{row[0]}","{row[1]}","{row[2]}","{row[3]}","{row[4]}","{row[5]}","{row[6]}","{row[7]}","{row[8]}")'
                 cursor.execute(InsertQuery)
 
             self.databaseConn.commit()
