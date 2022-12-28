@@ -2,13 +2,19 @@ class Schema:
     def __init__(self):
         # countries table schema
         self.Country_Table = '''CREATE TABLE if not Exists countries(
-        country_id int NOT NULL,
         country_name TEXT PRIMARY KEY NOT NULL,
-        region TEXT NOT NULL,
         iso_code TEXT NOT NULL,
-        currency TEXT NOT NULL,
         phone_code TEXT NOT NULL,
         capital TEXT NOT NULL,
+        currency TEXT NOT NULL,
+        currency_name TEXT NOT NULL,
+        currency_symbol TEXT NOT NULL,
+        country_domain TEXT NOT NULL,
+        region TEXT NOT NULL,
+        subregion TEXT NOT NULL,
+        timezone TEXT NOT NULL,
+        zone_city TEXT NOT NULL,
+        UTC TEXT NOT NULL,
         latitude TEXT NOT NULL,
         longitude TEXT NOT NULL
       )
