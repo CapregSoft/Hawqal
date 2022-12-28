@@ -35,10 +35,11 @@ class Schema:
           city_id int PRIMARY KEY NOT NULL,
           city_name TEXT NOT NULL,
           state_name TEXT NOT NULL,
+          state_id int NOT NULL,
           country_name TEXT NOT NULL,
           latitude TEXT NOT NULL,
           longitude TEXT NOT NULL,
-          FOREIGN KEY (state_name) REFERENCES states (state_name),
+          FOREIGN KEY (state_id) REFERENCES states (state_id),
           FOREIGN KEY (country_name) REFERENCES countries (country_name)
           )'''
 
