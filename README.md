@@ -1,7 +1,8 @@
-# Hawqal CSV Data Import
+# Hawqal
 
 This package provides a utility for importing data from CSV files into a Hawqal database.
 
+Hawqal is a powerful tool for accessing and working with information about countries, cities, and states. It is available in Go, Node, and Python and offers a variety of functions and features to help you quickly and easily retrieve and work with this data.
 ## Installation
 
 To install the package, run the following command:
@@ -13,13 +14,26 @@ To use the package, you will need to provide a connection string to your Hawqal 
 
 Here is an example of how to import data from a CSV file:
 
-```python
+```code
 from hawqal_csv_import import import_csv
 
-connection_string = "host=myhost port=5432 dbname=mydatabase user=myuser password=mypassword"
-csv_file_path = '/path/to/my/csv/file.csv'
-
-import_csv(connection_string, csv_file_path)
 ```
 
-I hope this helps! Let me know if you have any questions or need any further assistance.
+## Features
+
+- Get All Countries
+- Get All Cities
+- Get All States
+- Get State By Country
+- Get Cities By Country
+- Get Cities By State
+
+## Contributing
+
+To contribute to the development of Hawqal, follow these steps:
+
+- Create a new branch for your feature.
+- Commit your changes and push to the new branch.
+- Create a pull request.
+
+#### We hope this helps! Let us know if you have any questions or need any further assistance.
