@@ -30,16 +30,3 @@ We follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0
 ## Code Review and Testing
 
 All pull requests should be reviewed by at least one member of the Hawqal team or by collaborators before they merge into the master.
-
-## Running Examples
-
-```bash
-cd example  
-go run main.go
-```
-
-To run the test
-
-```bash
-go run example/main_test.go
-```
